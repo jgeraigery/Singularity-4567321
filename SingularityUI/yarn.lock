@@ -1378,8 +1378,9 @@ body-parser@1.19.0:
     type-is "~1.6.17"
 
 bootstrap-sass@^3.4.1:
-  version "3.4.1"
-  resolved "https://npm.hubteam.com/npm-nexus/repository/npm-all/bootstrap-sass/-/bootstrap-sass-3.4.1.tgz#6843c73b1c258a0ac5cb2cc6f6f5285b664a8e9a"
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.3.tgz#742cc8f4286303ae9fe8e4c95237321eae73766c"
+  integrity sha512-vPgFnGMp1jWZZupOND65WS6mkR8rxhJxndT/AcMbqcq1hHMdkcH4sMPhznLzzoHOHkSCrd6J9F8pWBriPCKP2Q==
 
 bootstrap@~3.4.1:
   version "3.4.1"
