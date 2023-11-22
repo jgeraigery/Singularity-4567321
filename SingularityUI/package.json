@@ -105,7 +105,7 @@
     "nib": "^1.1.0",
     "node-sass": "^4.7.2",
     "react-hot-loader": "^3.0.0-beta.2",
-    "resolve-url-loader": "^1.6.0",
+    "resolve-url-loader": "^3.0.0",
     "sass-loader": "^4.0.0",
     "streamqueue": "^1.1.1",
     "style-loader": "^0.13.1",
