@@ -42,7 +42,7 @@
     "escape-html": "^1.0.3",
     "immutable": "^3.8.1",
     "isomorphic-fetch": "^2.2.1",
-    "react": "^15.2.1",
+    "react": "^15.7.0",
     "react-addons-shallow-compare": "^15.2.1",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
