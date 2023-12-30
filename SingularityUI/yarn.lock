@@ -1705,9 +1705,10 @@ classnames@^1.2.0:
   version "1.2.2"
   resolved "https://npm.hubteam.com/npm-nexus/repository/npm-all/classnames/-/classnames-1.2.2.tgz#e96a2a0222d84925dd8fadb205d66e12f888edf9"
 
-classnames@^2.1.2, classnames@^2.2.3, classnames@^2.2.4, classnames@^2.2.5:
-  version "2.3.1"
-  resolved "https://npm.hubteam.com/npm-nexus/repository/npm-all/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
+classnames@^2.1.2, classnames@^2.2.4, classnames@^2.2.5, classnames@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.5.1.tgz#ba774c614be0f016da105c858e7159eae8e7687b"
+  integrity sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==
 
 cli-cursor@^2.1.0:
   version "2.1.0"
