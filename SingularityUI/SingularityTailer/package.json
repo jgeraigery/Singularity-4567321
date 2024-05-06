@@ -41,7 +41,7 @@
     "classnames": "^2.2.5",
     "escape-html": "^1.0.3",
     "immutable": "^3.8.1",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "react": "^15.2.1",
     "react-addons-shallow-compare": "^15.2.1",
     "react-redux": "^4.4.5",
