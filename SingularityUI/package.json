@@ -80,7 +80,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-eslint": "^9.0.0",
+    "@babel/eslint-parser": "^7.11.0",
     "babel-loader": "7.1.1",
     "browser-sync": "^2.13.0",
     "case-sensitive-paths-webpack-plugin": "^1.1.3",
