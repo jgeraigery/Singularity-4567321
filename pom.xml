@@ -577,7 +577,7 @@
       <dependency>
         <groupId>org.apache.directory.api</groupId>
         <artifactId>api-all</artifactId>
-        <version>1.0.0-M28</version>
+        <version>1.0.0-M31</version>
         <exclusions>
           <exclusion>
             <groupId>org.apache.servicemix.bundles</groupId>
